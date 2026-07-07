@@ -1,0 +1,8 @@
+../Drivers/SX1278/Src/sx1278.c:4:6:SX1278_Reset	1
+../Drivers/SX1278/Src/sx1278.c:14:6:SX1278_WriteReg	1
+../Drivers/SX1278/Src/sx1278.c:29:9:SX1278_ReadReg	1
+../Drivers/SX1278/Src/sx1278.c:47:6:SX1278_WriteBuffer	1
+../Drivers/SX1278/Src/sx1278.c:59:6:SX1278_ReadBuffer	1
+../Drivers/SX1278/Src/sx1278.c:71:19:SX1278_SetFrequency	1
+../Drivers/SX1278/Src/sx1278.c:85:19:SX1278_Init	2
+../Drivers/SX1278/Src/sx1278.c:142:19:SX1278_SendPacket	2
